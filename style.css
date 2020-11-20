@@ -28,7 +28,7 @@ html {
 
 /* unvisited link */
 a:link {
-  color: red;
+  color: rgb(255, 255, 255);
 }
 
 /* visited link */
@@ -38,12 +38,12 @@ a:visited {
 
 /* mouse over link */
 a:hover {
-  color: rgb(255, 255, 255);
+  color: rgb(0, 110, 255);
 }
 
 /* selected link */
 a:active {
-  color: rgb(9, 194, 154);
+  color: rgb(9, 157, 194);
 }
 
 /* all similar content styling codes */
