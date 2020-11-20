@@ -1,6 +1,6 @@
 <?php 
 
-$name = $_Post['name'];
+$name = $_POSTt['name'];
 $visitor_email = $_POST['email'];
 $message = $_POST['message'];
 
