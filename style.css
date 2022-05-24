@@ -396,7 +396,7 @@ section .title::after {
   width: 75%;
 }
 .skills-content .right .mysql::before {
-  width: 100%;
+  width: 75%;
 }
 
 /* teams section styling */
