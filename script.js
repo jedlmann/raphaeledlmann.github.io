@@ -10,7 +10,7 @@ $(document).ready(function () {
     // scroll-up button show/hide script
     if (this.scrollY > 500) {
       $(".scroll-up-btn").addClass("show");
-    } else {
+    } else {s
       $(".scroll-up-btn").removeClass("show");
     }
   });
